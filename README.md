@@ -1,5 +1,9 @@
 # Kubernetes Platform Infrastructure (IaC)
 
+> 🔗 **Part of the [Enterprise Kubernetes Platform Engineering Ecosystem](https://github.com/PandaVerse09/kubernetes-platform-gitops)**  
+> • GitOps Control Plane: [kubernetes-platform-gitops](https://github.com/PandaVerse09/kubernetes-platform-gitops)  
+> • Application Microservice: [kubernetes-platform-app](https://github.com/PandaVerse09/kubernetes-platform-app)
+
 Reproducible Infrastructure as Code (IaC) powered by Terraform for AWS EKS, VPC, and ECR.
 
 ## Architecture
